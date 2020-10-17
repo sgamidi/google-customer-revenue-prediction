@@ -24,3 +24,6 @@ This case study is about predicting futuristic transaction revenue per customer 
 
 ### Evaluation Metric
 Root Mean Square Logarithmic Error
+
+###  Blog
+https://medium.com/@gsrinivas/google-analytics-customer-revenue-prediction-be5f9d0d9c63
